@@ -2,7 +2,7 @@
 
 Projeto responsivo de landing page sobre uma agência fictícia usando flex e grid.
 
-<img src="./src/images/agencia-desktop.png">
+<img src="./src/images/desktop-xyz.gif">
 
 <br>
 
@@ -26,6 +26,6 @@ O site foi feito utilizando apenas:
 
 ## 📱 Mobile
 
-<img src="./src/images/agencia-smartphone.png">
+<img src="./src/images/mobile-xyz.gif">
 
 
